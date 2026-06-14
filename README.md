@@ -1,10 +1,10 @@
 <div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVzNTRkMnF2OHU3M2V5dGl5eWJ5Y2lyMDF2ZWFqOGh4NXBzOHM4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
-
 # 🤖 BUGTOAI
 
 ### Turning Bugs Into Intelligence 🚀
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVzNTRkMnF2OHU3M2V5dGl5eWJ5Y2lyMDF2ZWFqOGh4NXBzOHM4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
+
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Building+Agentic+AI+Systems;Machine+Learning+Enthusiast;Open+Source+Learner;Currently+Looking+for+AI+Internships" />
 
