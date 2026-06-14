@@ -53,39 +53,6 @@ I'm passionate about building practical AI systems that solve real-world problem
 ![Github](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
----
-
-# 🚀 Featured Projects
-
-### 🤖 Autonomous SRE Agent
-
-AI-powered incident management system featuring:
-
-- Incident Analysis
-- Root Cause Analysis
-- Risk Assessment
-- Remediation Planning
-- Monitoring Workflows
-
----
-
-### 🛡️ Fraud Detection System
-
-Machine learning system for detecting fraudulent transactions using ensemble learning techniques.
-
----
-
-### 📡 Network Intelligence System
-
-Predicting network degradation using network flow analytics and machine learning.
-
----
-
-### 🛒 Smart Shopping Basket Analyzer
-
-Customer segmentation, recommendation systems, and business intelligence dashboards.
-
----
 
 # 🎯 What I'm Currently Learning
 
@@ -110,14 +77,7 @@ Customer segmentation, recommendation systems, and business intelligence dashboa
 
 ✅ Collaborative Projects
 
----
 
-# 📫 Let's Connect
-
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
-
----
 
 <div align="center">
 
