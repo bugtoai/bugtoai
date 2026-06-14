@@ -4,7 +4,7 @@
 
 ### Turning Bugs Into Intelligence 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Building+Agentic+AI+Systems;Machine+Learning+Enthusiast;Open+Source+Learner;Looking+for+AI+Internships" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FFFFF&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Building+Agentic+AI+Systems;Machine+Learning+Enthusiast;Open+Source+Learner;Looking+for+AI+Internships" />
 
 <br>
 
