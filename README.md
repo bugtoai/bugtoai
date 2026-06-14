@@ -4,33 +4,31 @@
 
 ### Turning Bugs Into Intelligence 🚀
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVzNTRkMnF2OHU3M2V5dGl5eWJ5Y2lyMDF2ZWFqOGh4NXBzOHM4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Building+Agentic+AI+Systems;Machine+Learning+Enthusiast;Open+Source+Learner;Currently+Looking+for+AI+Internships" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Building+Agentic+AI+Systems;Machine+Learning+Enthusiast;Open+Source+Learner;Looking+for+AI+Internships" />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=bugtoai&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/bugtoai?style=for-the-badge" />
-
 </div>
 
 ---
 
-🚀 Building AI Projects
+# 👋 About Me
 
-🧠 Exploring Agentic AI
+I'm passionate about building practical AI systems that solve real-world problems.
 
-📚 Learning LLM Engineering
+🧠 Exploring Agentic AI, LLMs, RAG Systems, and AI Automation
 
-⚡ Open Source Learner
+⚡ Building projects focused on Machine Learning and Intelligent Systems
 
-🎯 Looking For Internship Opportunities
+🚀 Interested in AI Engineering, Backend Development, and Production AI
+
+🎯 Currently looking for AI/ML Internship opportunities
 
 ---
 
-# ⚒️ Tech Arsenal
+# 🛠️ Tech Stack
 
 ### Languages
 
@@ -38,13 +36,17 @@
 ![Java](https://skillicons.dev/icons?i=java)
 ![C](https://skillicons.dev/icons?i=c)
 
-### AI / ML
+### AI & Machine Learning
 
-![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Backend
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Backend & Tools
 
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![Git](https://skillicons.dev/icons?i=git)
@@ -53,64 +55,72 @@
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
+### 🤖 Autonomous SRE Agent
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bugtoai&show_icons=true&theme=tokyonight"/>
+AI-powered incident management system featuring:
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bugtoai&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bugtoai&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
+- Incident Analysis
+- Root Cause Analysis
+- Risk Assessment
+- Remediation Planning
+- Monitoring Workflows
 
 ---
 
-# 📈 Contribution Graph
+### 🛡️ Fraud Detection System
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bugtoai&theme=tokyo-night"/>
-
----
-
-# 🎯 Current Goals
-
-- Build Production AI Systems
-- Master Agentic AI
-- Contribute To Open Source
-- Land AI Internship
-- Build Startup-Level Projects
+Machine learning system for detecting fraudulent transactions using ensemble learning techniques.
 
 ---
 
-# ☕ Life Loop
+### 📡 Network Intelligence System
 
-```python
-while True:
+Predicting network degradation using network flow analytics and machine learning.
 
-    learn()
+---
 
-    build()
+### 🛒 Smart Shopping Basket Analyzer
 
-    fail()
+Customer segmentation, recommendation systems, and business intelligence dashboards.
 
-    improve()
+---
 
-    repeat()
-```
+# 🎯 What I'm Currently Learning
+
+- AI Agents
+- Large Language Models (LLMs)
+- Retrieval Augmented Generation (RAG)
+- FastAPI
+- AI System Design
+- Production AI Workflows
+
+---
+
+# 🤝 Open To
+
+✅ AI Internships
+
+✅ Machine Learning Internships
+
+✅ Open Source Contributions
+
+✅ AI Startup Opportunities
+
+✅ Collaborative Projects
+
+---
+
+# 📫 Let's Connect
+
+- LinkedIn: YOUR_LINKEDIN
+- Email: YOUR_EMAIL
 
 ---
 
 <div align="center">
 
-### ⚡ "First, solve the problem. Then, automate it with AI."
+### ⚡ Building. Learning. Improving.
 
 </div>
