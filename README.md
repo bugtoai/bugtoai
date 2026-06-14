@@ -1,10 +1,10 @@
 <div align="center">
+
 # 🤖 BUGTOAI
 
 ### Turning Bugs Into Intelligence 🚀
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVzNTRkMnF2OHU3M2V5dGl5eWJ5Y2lyMDF2ZWFqOGh4NXBzOHM4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
-
-
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Building+Agentic+AI+Systems;Machine+Learning+Enthusiast;Open+Source+Learner;Currently+Looking+for+AI+Internships" />
 
@@ -14,13 +14,9 @@
 
 <img src="https://img.shields.io/github/followers/bugtoai?style=for-the-badge" />
 
-<img src="https://img.shields.io/github/stars/bugtoai?style=for-the-badge" />
-
 </div>
 
 ---
-
-```
 
 🚀 Building AI Projects
 
@@ -39,25 +35,20 @@
 ### Languages
 
 ![Python](https://skillicons.dev/icons?i=python)
-
-![java](https://skillicons.dev/icons?i=java)
-
-![c](https://skillicons.dev/icons?i=c)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
 
 ### AI / ML
 
 ![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
 
-![sklearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Backend
 
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
-
 ![Git](https://skillicons.dev/icons?i=git)
-
 ![Github](https://skillicons.dev/icons?i=github)
-
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
@@ -87,7 +78,6 @@
 # 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bugtoai&theme=tokyo-night"/>
-
 
 ---
 
