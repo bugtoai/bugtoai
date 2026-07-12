@@ -1,86 +1,68 @@
+````md
 <div align="center">
 
-# 🤖 BUGTOAI
+# BUGTOAI ⚡
 
-### Turning Bugs Into Intelligence 🚀
+### Turning Bugs Into Intelligence
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FFFFF&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Building+Agentic+AI+Systems;Machine+Learning+Enthusiast;Open+Source+Learner;Looking+for+AI+Internships" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=AI+Builder;Open+Source+Contributor;LLMs+%7C+RAG+%7C+AI+Agents;Always+Shipping+Projects" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=bugtoai&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=bugtoai&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+<img align="right" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-I'm passionate about building practical AI systems that solve real-world problems.
+### // About
 
-🧠 Exploring Agentic AI, LLMs, RAG Systems, and AI Automation
+🚀 Building AI applications that solve real problems
 
-⚡ Building projects focused on Machine Learning and Intelligent Systems
+🧠 Exploring AI Agents, RAG & LLM Engineering
 
-🚀 Interested in AI Engineering, Backend Development, and Production AI
+🌍 Contributing to Open Source
 
-🎯 Currently looking for AI/ML Internship opportunities
+🎯 Looking for AI/ML Internship Opportunities
 
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
-
-### AI & Machine Learning
-
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Backend & Tools
-
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-
-
-# 🎯 What I'm Currently Learning
-
-- AI Agents
-- Large Language Models (LLMs)
-- Retrieval Augmented Generation (RAG)
-- FastAPI
-- AI System Design
-- Production AI Workflows
+<br clear="right"/>
 
 ---
 
-# 🤝 Open To
+### Tech
 
-✅ AI Internships
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,fastapi,git,github,vscode&perline=7" />
+</p>
 
-✅ Machine Learning Internships
+---
 
-✅ Open Source Contributions
+### Current Focus
 
-✅ AI Startup Opportunities
+```text
+> AI Agents
+> LLM Applications
+> Retrieval-Augmented Generation
+> Production AI Systems
+````
 
-✅ Collaborative Projects
-
-
+---
 
 <div align="center">
 
-### ⚡ Building. Learning. Improving.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bugtoai&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### Building → Learning → Contributing
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+```
