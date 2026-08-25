@@ -61,19 +61,7 @@ about a hard problem.
 └─────────────────────────────────────────────┘
 ```
 
-<br>
 
-## → connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-your%40email.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bugtoai)
-[![X](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/bugtoai)
-
-</div>
-
-<br>
 
 <div align="center">
 
